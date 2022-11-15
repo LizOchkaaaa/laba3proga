@@ -1,0 +1,7 @@
+@startuml
+package com.main
+com.main <|-- AbstractClass
+com.main <|-- Dress
+com.main <|-- Main
+com.main <|-- Person
+@enduml
