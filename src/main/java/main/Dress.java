@@ -1,4 +1,4 @@
-package com.main;
+package main;
 
 import interfece.Actiondress;
 import interfece.Discrable;

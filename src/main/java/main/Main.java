@@ -1,4 +1,4 @@
-package com.main;
+package main;
 import enums.ranks;
 import items.*;
 

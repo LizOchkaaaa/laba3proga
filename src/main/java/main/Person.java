@@ -1,4 +1,4 @@
-package com.main;
+package main;
 import interfece.ActionPerson;
 import interfece.Discrable;
 import static enums.Adjectives.STUNNED;

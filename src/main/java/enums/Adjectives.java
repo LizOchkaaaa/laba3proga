@@ -17,7 +17,7 @@ public enum Adjectives {
     Adjectives(String mean) {
         this.attribute = mean;
     }
-
+    @Override
     public String toString() {
         return attribute;
     }

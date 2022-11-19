@@ -1,4 +1,4 @@
-package com.main;
+package main;
 
 public abstract class AbstractClass {
     private String name;

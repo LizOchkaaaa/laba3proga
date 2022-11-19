@@ -1,6 +1,6 @@
 package interfece;
 
-import com.main.Dress;
+import main.Dress;
 
 public interface ActionPerson {
 
